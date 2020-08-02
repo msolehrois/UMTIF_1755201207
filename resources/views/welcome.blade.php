@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ahmad Candra W.W
+                   Muhammad Soleh Rois
                 </div>
 
                 <div class="links">
